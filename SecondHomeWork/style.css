@@ -1,0 +1,30 @@
+form{
+    position: absolute;
+    border:1px; 
+    border-style: solid;
+    border-collapse: collapse;
+    padding: 30px;
+}
+button{
+    
+    background-color: #64b567;
+    padding: 10px 150px;
+    text-align: center;
+    margin: 30px;
+    color: white;
+    border: 0px;
+}
+a:link{
+    text-decoration: none;
+    color: blue;
+}
+
+input:hover{
+    border-color: rgb(79, 131, 79);
+}
+.first{
+    border: 1px solid;
+    border-color: rgb(184, 181, 181);
+    padding: 10px;
+    
+}
