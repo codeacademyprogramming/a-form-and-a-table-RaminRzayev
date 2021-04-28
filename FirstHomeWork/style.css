@@ -1,0 +1,26 @@
+
+thead{
+    background-color: rgb(56, 158, 64);
+    color: white;
+  
+}
+.first{
+    background-color: rgb(182, 204, 138);
+}
+.second{
+    background-color: rgb(210, 218, 210);
+}
+.third{
+    width: 100px;
+    text-align: left;
+}
+.txtright{
+    text-align: right;
+}
+table,td{
+    padding: 5px;
+}
+th{
+    text-align: left;
+    padding: 7px;
+}
